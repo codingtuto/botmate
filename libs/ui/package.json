@@ -1,0 +1,11 @@
+{
+  "name": "@botmate/ui",
+  "version": "1.0.0-alpha.0",
+  "description": "UI components for BotMate",
+  "scripts": {
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

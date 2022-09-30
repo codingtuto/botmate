@@ -1,0 +1,21 @@
+{
+  "name": "@botmate/telegram",
+  "version": "1.0.0-alpha.0",
+  "description": "Common functions for BotMate",
+  "author": {
+    "email": "xencodes@icloud.com",
+    "name": "Monawwar Abdullah",
+    "url": "https://github.com/xencodes"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "botmate",
+    "bot",
+    "telegram",
+    "discord",
+    "telegraf",
+    "grammy"
+  ],
+  "license": "ISC"
+}

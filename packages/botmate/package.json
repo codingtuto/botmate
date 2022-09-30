@@ -1,0 +1,31 @@
+{
+  "name": "botmate",
+  "version": "1.0.0-alpha.0",
+  "description": "Platform to build and deploy messaging bots.",
+  "type": "commonjs",
+  "author": {
+    "email": "xencodes@icloud.com",
+    "name": "Monawwar Abdullah",
+    "url": "https://github.com/xencodes"
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "swc src -d dist"
+  },
+  "keywords": [
+    "botmate",
+    "bot",
+    "chatbot",
+    "telegram",
+    "discord",
+    "telegraf",
+    "grammy"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^4.4.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.4.0"
+  }
+}
